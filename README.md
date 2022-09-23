@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **babiperina/babiperina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there! 👋 I'm Babi Perina!
+#### I'm a QA Enginner with 6 years experience with Computer Sciences degree.
+
+- 🍁 Living in Vancouver, Canada
+- 🔭 I'm currently not working but studying Web Development
+- 📫 You can reach me at: [LinkedIn](https://www.linkedin.com/in/babiperina/) | [Instagram](https://www.instagram.com/babiperina.dev/)
+- ⚡ Fun fact: I kinda like Java!
