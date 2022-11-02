@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello there! 👋 I'm Babi Perina!
-#### I'm a QA Enginner with 6 years experience with Computer Sciences degree.
+#### I'm a SDET with 6 years experience with Computer Sciences degree.
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
