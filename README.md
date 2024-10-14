@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - Living in Fortaleza, Brazil
-- 🔭 I'm currently working for We are Meta (PT Company)
+- 🔭 I'm currently working for Sysmap Solutions
 - 📫 You can reach me at: [LinkedIn](https://www.linkedin.com/in/babiperina/) | [Instagram](https://www.instagram.com/babiperina.dev/)
 - ⚡ Fun fact: I kinda like Java!
 
